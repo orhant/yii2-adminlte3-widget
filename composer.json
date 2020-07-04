@@ -1,5 +1,5 @@
 {
-    "name":              "Veo/yii2-adminlte3-widget" ,
+    "name":              "veo/yii2-adminlte3-widget" ,
     "description":       "AdminLTE3 widgets for yii2" ,
     "keywords":          [ "yii" , "yii2" , "adminlte" , "widgets" ] ,
     "type":              "library" ,
