@@ -1,5 +1,5 @@
 {
-    "name":              "insolita/yii2-adminlte3-widgets" ,
+    "name":              "insolita/yii2-adminlte3-widget" ,
     "description":       "AdminLTE3 widgets for yii2" ,
     "keywords":          [ "yii" , "yii2" , "adminlte" , "widgets" ] ,
     "type":              "library" ,
